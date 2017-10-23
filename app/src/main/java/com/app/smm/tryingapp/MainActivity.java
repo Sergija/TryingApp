@@ -12,6 +12,7 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity {
     private int inventada;
     private String cadena;
+    private int remoto; //afegeixo aquest arxiu en GitHub per experimentar
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
