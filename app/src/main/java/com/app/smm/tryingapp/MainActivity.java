@@ -11,6 +11,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
     private int inventada;
+    private String cadena;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
