@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private int inventada;
     private String cadena;
     private int remoto; //afegeixo aquest arxiu en GitHub per experimentar
+    private String segonaACtivity; //var afegida en local per fer proves branch
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
